@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # I'm a Frontent Developer
-[![Mominjon's github stats ](https://github-readme-stats.vercel.app/api?username=Mominjon&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Mominjon's github stats ](https://github-readme-stats.vercel.app/api?username=Mominjon&show_icons=true&theme=dark)](https://github.com/Mominjon)
 
 
 ### Languages and Tools
