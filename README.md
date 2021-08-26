@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# I'm a Full-Stack Web Developer
+# I'm a Frontent Developer
 [![Mominjon's github stats ](https://github-readme-stats.vercel.app/api?username=Mominjon&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
