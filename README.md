@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 ### Follow me
  
-[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#1DA1F2)](https://t.me/Mominjondevloper) [!
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#1DA1F2)](https://t.me/Mominjondevloper)
