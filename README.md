@@ -1,6 +1,3 @@
-### Hi there 👋
-
-# I'm a Frontent Developer
 [![Mominjon's github stats ](https://github-readme-stats.vercel.app/api?username=Mominjon&show_icons=true&theme=dark)](https://github.com/Mominjon)
 
 <h1 align="center">Hi 👋, I'm Mominjon</h1>
