@@ -1,9 +1,7 @@
 [![Mominjon's github stats ](https://github-readme-stats.vercel.app/api?username=Mominjon&show_icons=true&theme=dark)](https://github.com/Mominjon)
 
 <h1 align="center">Hi 👋, I'm Mominjon</h1>
-<h3 align="center">I'm Junior FullSctack Developer</h3>
-
-- 🔭 I’m currently working on [conferencepublication](https://conferencepublication.netlify.app/)
+<h3 align="center">I'm Frontend Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
